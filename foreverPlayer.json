@@ -1,0 +1,15 @@
+{
+  "contact": "https://discord.gg/forever",
+  "templates": [
+    {
+      "name": "ForeverPlayer",
+      "sources": [
+        "https://raw.githubusercontent.com/cssssia/r-place/main/enigmaDoMedo/enigmaTemplate.png"
+      ],
+      "x": 1117,
+      "y": 763
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
